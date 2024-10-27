@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# taskmanagementfrontend
-=======
-<<<<<<< HEAD
+
 # Task Management System
 
 This project is a Task Management System, allowing users to sign up, log in, and manage tasks with features like creating tasks, attaching files, setting due dates, and marking tasks as complete or incomplete.
@@ -97,10 +94,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
->>>>>>> af7c521 (Initialize project using Create React App)
->>>>>>> 510dbd6 (Initial frontend files)
